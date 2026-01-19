@@ -1,0 +1,14 @@
+#Compilados de C
+*.o
+*.out
+src/*.o
+src/*.out
+
+#Archivos de configuración del editor
+.vscode/
+
+#Datos de prueba
+results/
+
+#Archivos varios   
+Informe.md
