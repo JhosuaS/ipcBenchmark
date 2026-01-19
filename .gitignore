@@ -3,12 +3,13 @@
 *.out
 src/*.o
 src/*.out
+/bin/
 
 #Archivos de configuración del editor
 .vscode/
 
 #Datos de prueba
-results/
+/results/
 
 #Archivos varios   
 Informe.md
