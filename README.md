@@ -17,12 +17,13 @@ El benchmark cubre los siguientes métodos IPC:
 * GNU Make
 * Entorno Linux/UNIX (necesario para las librerías POSIX como `<mqueue.h>` y `<sys/shm.h>`)
 
-## 🛠️ Compilación
+## Compilación
 
 El proyecto cuenta con un `Makefile` automatizado que gestiona la compilación y la estructura de directorios.
 
 Para compilar todo el proyecto:
 `make`
+
 Esto creará automáticamente las carpetas bin/ (para los ejecutables) y results/ (para los datos de salida).
 
 Para limpiar los ejecutables y archivos de resultados:
